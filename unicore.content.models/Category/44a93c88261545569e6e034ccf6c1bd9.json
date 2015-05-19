@@ -1,0 +1,20 @@
+{
+  "subtitle": "Urdu Translation of Child Development and Early Learning", 
+  "uuid": "44a93c88261545569e6e034ccf6c1bd9", 
+  "language": "urd_PK", 
+  "title": "\u0628\u0686\u0648\u06ba \u06a9\u06cc  \u0630\u06c1\u0646\u06cc \u0648 \u062c\u0633\u0645\u0627\u0646\u06cc \u0646\u0634\u0648\u0648\u0646\u0645\u0627\u0621 \u0627\u0648\u0631 \u0627\u0628\u062a\u062f\u0627\u0626\u06cc \u062a\u0631\u0628\u06cc\u062a", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "bachon-ki-zehni-o-jismani-nashonuma-aur-ibtadaai-tarbiyat", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
