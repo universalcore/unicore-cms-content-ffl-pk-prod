@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "About (\u06c1\u0645\u0627\u0631\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba )", 
+  "language": "urd_PK", 
+  "title": "\u06c1\u0645\u0627\u0631\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba", 
+  "primary_category": null, 
+  "created_at": "2015-05-21T09:54:13.699317+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-21T09:54:13.699679+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Each year, around 9 million children die from preventable and treatable illnesses before reaching their fifth birthday.\r\n\r\nMany die during their first year of life. Countless more children live in precarious situations and face diminished futures. Facts for Life provides vital messages and information for mothers, fathers, other family members and caregivers and communities to use in changing behaviours and practices that can save and protect the lives of children and help them grow and develop to their full potential.\r\n\r\nThis version of Facts for Life builds on the three previous editions, which have been helping families and communities around the world since 1989. Facts for Life is a trusted resource that is written in easy-to-understand language. Previous versions were translated into 215 languages.\r\n\r\nUsers of this fourth edition are encouraged to be innovative in finding ways to extend the reach of the Facts for Life messages to help families and communities realize the rights of children and women everywhere. If you translate all or part of the book, or know of translations into other languages, share them with us and we will post them on the Facts for Life site!", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "about", 
+  "uuid": "6fa2b68f84184989824650e62c789dde"
+}
