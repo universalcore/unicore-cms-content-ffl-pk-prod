@@ -1,0 +1,20 @@
+{
+  "subtitle": "Urdu Translation of Injury Prevention", 
+  "uuid": "c9f9a2ac959a43639ee7106537c44fdf", 
+  "language": "urd_PK", 
+  "title": "\u0632\u062e\u0645\u0648\u06ba \u0633\u06d2 \u062a\u062d\u0641\u0638 ", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "zakhmon-se-tahaffuz", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
