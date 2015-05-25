@@ -1,0 +1,20 @@
+{
+  "subtitle": "Urdu Translation of Child Protection", 
+  "uuid": "d42729bb065144abbfbb6d3c505d97cb", 
+  "language": "urd_PK", 
+  "title": "\u0628\u0686\u0648\u06ba \u06a9\u0627 \u062a\u062d\u0641\u0638", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "bachon-ka-tahaffuz", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
