@@ -1,0 +1,20 @@
+{
+  "subtitle": "Urdu Translation of Hygiene", 
+  "uuid": "607ef6ea0ef9446d905d6082ffde2d23", 
+  "language": "urd_PK", 
+  "title": "\u0635\u0641\u0627\u0626\u06cc \u0633\u062a\u06be\u0631\u0627\u0626\u06cc", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "safai-suthrai", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
