@@ -6,12 +6,12 @@
   "primary_category": "c9f9a2ac959a43639ee7106537c44fdf", 
   "created_at": "2015-05-25T07:51:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-27T09:54:12.212525+00:00", 
+  "modified_at": "2017-02-17T12:27:55.372988+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "agar-vaaldain-aur-dekh-bhaal-karne-wale-deegar-afraad-bachon-ki-ehtiaat-se-nigrani--karein", 
   "uuid": "6fbc19f52d7e443c9df4367d59115781"
