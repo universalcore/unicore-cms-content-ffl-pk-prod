@@ -6,12 +6,12 @@
   "primary_category": "bc62d43345eb4d2db5a6807c6edc7fdd", 
   "created_at": "2015-05-22T09:50:48+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-27T09:32:52.423862+00:00", 
+  "modified_at": "2017-02-17T12:21:53.150105+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "safai-suthrai-ki-achi-adat-apnane-aur-peene-ka-saaf-pani-istemal-karne-se-daston-ki-bimari-se-tahafuz-hasil-kiya-jasakta-hay", 
   "uuid": "0af3c8f6f24e44548a0331406a93d8c3"
