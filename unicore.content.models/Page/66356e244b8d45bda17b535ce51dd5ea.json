@@ -6,12 +6,12 @@
   "primary_category": "607ef6ea0ef9446d905d6082ffde2d23", 
   "created_at": "2015-05-25T05:21:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-27T09:42:35.443521+00:00", 
+  "modified_at": "2017-02-17T12:30:50.005797+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "safai-suthrai-ki-malumat-ko-taqseem-karna-aur-us-per-amal-karna-kyun-ahem-hay", 
   "uuid": "66356e244b8d45bda17b535ce51dd5ea"
