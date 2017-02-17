@@ -6,12 +6,12 @@
   "primary_category": "bc62d43345eb4d2db5a6807c6edc7fdd", 
   "created_at": "2015-05-22T09:46:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-27T09:33:00.848632+00:00", 
+  "modified_at": "2017-02-17T12:21:53.305216+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "daston-ki-bimari-ki-rokthaam-ke-liye-shierkhwar-aur-chote-bachon-smet-tamam-logon-ke-fazlay-ko-letrine-yatoilet-mein-thukane-laga-dena-chahiye", 
   "uuid": "005e497be9a14413ae85e1496922a29e"
