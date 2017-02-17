@@ -6,12 +6,12 @@
   "primary_category": "607ef6ea0ef9446d905d6082ffde2d23", 
   "created_at": "2015-05-25T05:24:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-27T09:42:27.771771+00:00", 
+  "modified_at": "2017-02-17T12:30:49.699907+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "shierkhwar-aur-chote-bachon-samet-tamam-logon-ke-fazle-ko-mehfooz-tareeqe-se-thikane-lagana-chahiye", 
   "uuid": "4b192fe1572d475ebdfc9cc82a60cd17"
