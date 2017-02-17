@@ -6,12 +6,12 @@
   "primary_category": "02b9801ff5d5465fb92e6b96436f1f0c", 
   "created_at": "2015-05-25T10:37:59+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-27T09:26:09.468505+00:00", 
+  "modified_at": "2017-02-17T12:29:32.669748+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "hungami-suratehaal-mein-tayaari-aur-radde-amalki-malumat", 
   "uuid": "45517c69557a476ebd25a818114d7860"
